@@ -1,0 +1,4 @@
+aaaa
+q1, a -> q1, b, R
+q1, b->  q1, b, R
+q1, # -> qf, #, L
