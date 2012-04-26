@@ -10,7 +10,7 @@ To run the turing machine simulator:
 
     $ java tm.Simulator tm/input
 
-where `input` have the next format:
+where `input` has the next format:
 
     aaaa
     q1, a -> q2, b, R
