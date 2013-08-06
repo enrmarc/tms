@@ -110,4 +110,3 @@ class Action {
         this.move = move;
     }
 }
-
