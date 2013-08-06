@@ -25,4 +25,3 @@ public class Simulator {
         new TuringMachine(input, transitions, steps).run();
     }
 }
-
